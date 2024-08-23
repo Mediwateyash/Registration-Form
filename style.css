@@ -25,5 +25,29 @@ body {
 }
 
 .Registration-form p {
-    
+    font-size: 20px;
+    margin: 15px;
+}
+
+.Registration-form input{
+    font-size: 16px;
+    padding: 15px;
+    border:4px;
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+}
+.Registration-form button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px 15px;
+    width: 50%;
+    border:0;
+    border-radius: 5px;
+    background-color: #fff;
+
+}
+.Registration-form button:hover {
+    background-color: rgb(168, 71, 233); 
 }
